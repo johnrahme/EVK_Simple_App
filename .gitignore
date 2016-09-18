@@ -1,3 +1,11 @@
+#Project stuff
+
+*.coproj
+cmsis
+cmsis_boot
+stm_lib
+EVK_Simple_App
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
